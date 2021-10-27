@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @AtharvAgar
-- 👀 I’m interested in - "Computer Science"
-- 🌱 I’m currently learning - PYTHON and Web Designing
+- 👀 I’m interested in - 
+- 🌱 I’m currently learning - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 👍 I already did Visual Basic, MySQL, C and C++
+- 👍
 
                               *Coding - Where Logic Meets Software*
 <!---
