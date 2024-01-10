@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - 👍
 
-                              *Coding - Where Logic Meets Software*
+  
 <!---
 AtharvAgar/AtharvAgar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
